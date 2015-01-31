@@ -1,0 +1,6 @@
+1) dowanload the file “anagram.m”
+2) open the terminal
+3) goto the directory where “anagram.m” is located.
+4) From the terminal write the command “gcc -framework Cocoa anagram.h -o hw”
+5) run the object file with argument which is path to the file “words”.
+6) Command to run the object file is “./hw [filapath]” 
